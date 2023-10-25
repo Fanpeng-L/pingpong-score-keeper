@@ -1,6 +1,9 @@
 # scorekeeper-JS
+
 A javascript score-keeper project for Ping Pong🏓 game.
 
+[Try here: 🔗](https://fanpeng-l.github.io/scorekeeper-JS/)
 
-https://github.com/Fanpeng-L/scorekeeper-JS/assets/90544605/01cceceb-de7b-4a88-bb9b-318d09a66aa3
+Preview:
 
+<img src="preview.gif" width="600">

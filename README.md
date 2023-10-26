@@ -1,9 +1,9 @@
-# scorekeeper-JS
+# 🏓 Ping Pong Score Keeper
 
 A javascript score-keeper project for Ping Pong🏓 game.
 
-[Try here: 🔗](https://fanpeng-l.github.io/scorekeeper-JS/)
+[Try here: 🔗](https://fanpeng-l.github.io/pingpong-score-keeper/)
 
-Preview:
+👀 Preview:
 
 <img src="preview.gif" width="600">

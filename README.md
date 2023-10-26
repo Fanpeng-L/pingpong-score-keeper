@@ -6,4 +6,4 @@ A javascript score-keeper project for Ping Pong🏓 game.
 
 👀 Preview:
 
-<img src="preview.gif" width="600">
+<img src="preview.gif" width="500">
